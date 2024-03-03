@@ -1,0 +1,6 @@
+pip install telebot
+pip install dotenv
+pip install os
+pip install requests
+pip install json
+pip install translate
